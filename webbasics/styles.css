@@ -7,14 +7,14 @@
 #centerbody {margin:10px;float:center; text-align:left;
     width:70%;height:180px;clear:both;font-style:courier;}
 
-.fixedimg {position: relative;bottom:190px; left:1075px;width:295; height:195px;}
+.fixedimg {float: right; position:relative; top:-185px;width:25%; height:195px;}
 
 #bottomright {margin:10px;float:center; text-align:left;
     width:70%;height:200px;font-style:courier;}
 
 .img {position: relative; left:450px; top:20px; width:200px; height:300px; padding-left: 10px; content:"width:device, initial-scale:1.0"}
 
-.biopic {position: relative; width: 200px; height:350px;}
+.biopic {position: relative; width: 200px; height:325px;}
 
 .footer {width:30%; text-align:center; font:courier;
     background:rgb(194, 92, 194); border-bottom:2px; position:fixed; bottom:10px;}
