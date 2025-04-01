@@ -12,12 +12,12 @@
 #bottomright {margin:10px;float:center; text-align:left;
     width:70%;height:200px;font-style:courier;}
 
-.img {position: relative; float: center; top:20px; bottom:10px; border-bottom: 40px solid azure;
+.img {position: relative; float: center; top:20px; bottom:10px; border-bottom: 50px solid azure;
     width:200px; height:300px; padding-left: 10px; content:"width:device, initial-scale:1.0"}
 
-.biopic {position: relative; width: 200px; height:325px;}
+.biopic {position: relative; width: 175px; height:200px;}
 
 .footer {width:30%; text-align:center; font:courier;
     background:rgb(194, 92, 194); border-bottom:2px; position:fixed; bottom:10px;}
 
-.backhome {position:relative; left: 1300px;}
+.backhome {position:relative; float:right;}
