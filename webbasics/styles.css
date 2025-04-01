@@ -12,7 +12,8 @@
 #bottomright {margin:10px;float:center; text-align:left;
     width:70%;height:200px;font-style:courier;}
 
-.img {position: relative; left:450px; top:20px; width:200px; height:300px; padding-left: 10px; content:"width:device, initial-scale:1.0"}
+.img {position: relative; float: right; top:20px; bottom:10px; border-bottom: 15px solid azure;
+    width:200px; height:300px; padding-left: 10px; content:"width:device, initial-scale:1.0"}
 
 .biopic {position: relative; width: 200px; height:325px;}
 
