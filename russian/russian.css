@@ -101,6 +101,12 @@
     justify-content: center;
     box-sizing: border-box;
   }
+  .topartist {
+    border-radius:12px;
+    width:100%;
+    height:352px;
+    border:none;
+  }
   .full-width-heading {
     background-color: #7aaae0;
     padding: 15px;;
